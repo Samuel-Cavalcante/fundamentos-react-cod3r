@@ -1,0 +1,7 @@
+.App {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* Flex-wrap == quebra linha quando a tela diminui
+tem que setar o tamanho minimo no Card dentro de card.css*/ 
